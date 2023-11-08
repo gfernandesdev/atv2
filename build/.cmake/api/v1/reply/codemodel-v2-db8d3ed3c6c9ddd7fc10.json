@@ -1,0 +1,325 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						9
+					],
+					"jsonFile" : "directory-.-Release-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "abcg",
+					"childIndexes" : 
+					[
+						2
+					],
+					"jsonFile" : "directory-abcg-Release-0145cbc06d72cc239d33.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "abcg",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "abcg/external",
+					"childIndexes" : 
+					[
+						3,
+						4,
+						5,
+						6,
+						7,
+						8
+					],
+					"jsonFile" : "directory-abcg.external-Release-4c756a9ce7fbae04ced4.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 1,
+					"source" : "abcg/external"
+				},
+				{
+					"build" : "abcg/external/tiny_obj_loader",
+					"jsonFile" : "directory-abcg.external.tiny_obj_loader-Release-98b5a5e422dcfe342652.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"parentIndex" : 2,
+					"projectIndex" : 2,
+					"source" : "abcg/external/tiny_obj_loader"
+				},
+				{
+					"build" : "abcg/external/imgui",
+					"jsonFile" : "directory-abcg.external.imgui-Release-22261efdf06059deae00.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 2,
+					"projectIndex" : 3,
+					"source" : "abcg/external/imgui",
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"build" : "abcg/external/cppitertools",
+					"jsonFile" : "directory-abcg.external.cppitertools-Release-60d25409e716e9a630b4.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"parentIndex" : 2,
+					"projectIndex" : 4,
+					"source" : "abcg/external/cppitertools"
+				},
+				{
+					"build" : "abcg/external/fmt",
+					"jsonFile" : "directory-abcg.external.fmt-Release-e4ab32fc36c044588469.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"parentIndex" : 2,
+					"projectIndex" : 5,
+					"source" : "abcg/external/fmt",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "abcg/external/glm",
+					"jsonFile" : "directory-abcg.external.glm-Release-2fa048d9ea6ee800c678.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 2,
+					"projectIndex" : 1,
+					"source" : "abcg/external/glm"
+				},
+				{
+					"build" : "abcg/external/gsl",
+					"jsonFile" : "directory-abcg.external.gsl-Release-7c2707ed0dc68a4188db.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"parentIndex" : 2,
+					"projectIndex" : 6,
+					"source" : "abcg/external/gsl"
+				},
+				{
+					"build" : "examples",
+					"childIndexes" : 
+					[
+						10
+					],
+					"jsonFile" : "directory-examples-Release-1c8b83b621b6ef38a245.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "examples"
+				},
+				{
+					"build" : "examples/helloworld",
+					"childIndexes" : 
+					[
+						11
+					],
+					"jsonFile" : "directory-examples.helloworld-Release-bb4781de2fb9ccc75ced.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.11"
+					},
+					"parentIndex" : 9,
+					"projectIndex" : 0,
+					"source" : "examples/helloworld"
+				},
+				{
+					"build" : "examples/helloworld/opengl",
+					"jsonFile" : "directory-examples.helloworld.opengl-Release-dd875e8a6c4376452db8.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.11"
+					},
+					"parentIndex" : 10,
+					"projectIndex" : 7,
+					"source" : "examples/helloworld/opengl",
+					"targetIndexes" : 
+					[
+						2
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1,
+						7
+					],
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						9,
+						10
+					],
+					"name" : "abcg",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"childIndexes" : 
+					[
+						2,
+						3,
+						4,
+						5,
+						6
+					],
+					"directoryIndexes" : 
+					[
+						2,
+						7
+					],
+					"name" : "external",
+					"parentIndex" : 0
+				},
+				{
+					"directoryIndexes" : 
+					[
+						3
+					],
+					"name" : "tiny_obj_loader",
+					"parentIndex" : 1
+				},
+				{
+					"directoryIndexes" : 
+					[
+						4
+					],
+					"name" : "imgui",
+					"parentIndex" : 1,
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						5
+					],
+					"name" : "cppitertools",
+					"parentIndex" : 1
+				},
+				{
+					"directoryIndexes" : 
+					[
+						6
+					],
+					"name" : "fmt",
+					"parentIndex" : 1,
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						8
+					],
+					"name" : "gsl",
+					"parentIndex" : 1
+				},
+				{
+					"directoryIndexes" : 
+					[
+						11
+					],
+					"name" : "helloworld",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "abcg::@fa5a221ce82f0a06330e",
+					"jsonFile" : "target-abcg-Release-664b37d39a85cd83901d.json",
+					"name" : "abcg",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "fmt::@05cd5962bb4e2bff130e",
+					"jsonFile" : "target-fmt-Release-325af66602c37d2fdfc9.json",
+					"name" : "fmt",
+					"projectIndex" : 5
+				},
+				{
+					"directoryIndex" : 11,
+					"id" : "helloworld::@983e99dbff50fcea1bea",
+					"jsonFile" : "target-helloworld-Release-7702186f38955837362a.json",
+					"name" : "helloworld",
+					"projectIndex" : 7
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "imgui::@a1283253420173d9f2e2",
+					"jsonFile" : "target-imgui-Release-dbf74b15d3912259ed9a.json",
+					"name" : "imgui",
+					"projectIndex" : 3
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/gabriel/UFABC/ComputacaoGrafica/abcg/build",
+		"source" : "/home/gabriel/UFABC/ComputacaoGrafica/abcg"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

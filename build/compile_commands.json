@@ -1,0 +1,112 @@
+[
+{
+  "directory": "/home/gabriel/UFABC/ComputacaoGrafica/abcg/build/abcg",
+  "command": "/usr/lib/ccache/g++  -I/home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg -I/home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg/external/cppitertools -I/home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg/external/fmt -I/home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg/external/glm/.. -I/home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg/external/imgui -isystem /usr/include/SDL2 -isystem /home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg/external -isystem /home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg/external/tiny_obj_loader -O3 -DNDEBUG -std=gnu++20 -o CMakeFiles/abcg.dir/abcgApplication.cpp.o -c /home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg/abcgApplication.cpp",
+  "file": "/home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg/abcgApplication.cpp"
+},
+{
+  "directory": "/home/gabriel/UFABC/ComputacaoGrafica/abcg/build/abcg",
+  "command": "/usr/lib/ccache/g++  -I/home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg -I/home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg/external/cppitertools -I/home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg/external/fmt -I/home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg/external/glm/.. -I/home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg/external/imgui -isystem /usr/include/SDL2 -isystem /home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg/external -isystem /home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg/external/tiny_obj_loader -O3 -DNDEBUG -std=gnu++20 -o CMakeFiles/abcg.dir/abcgTimer.cpp.o -c /home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg/abcgTimer.cpp",
+  "file": "/home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg/abcgTimer.cpp"
+},
+{
+  "directory": "/home/gabriel/UFABC/ComputacaoGrafica/abcg/build/abcg",
+  "command": "/usr/lib/ccache/g++  -I/home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg -I/home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg/external/cppitertools -I/home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg/external/fmt -I/home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg/external/glm/.. -I/home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg/external/imgui -isystem /usr/include/SDL2 -isystem /home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg/external -isystem /home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg/external/tiny_obj_loader -O3 -DNDEBUG -std=gnu++20 -o CMakeFiles/abcg.dir/abcgException.cpp.o -c /home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg/abcgException.cpp",
+  "file": "/home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg/abcgException.cpp"
+},
+{
+  "directory": "/home/gabriel/UFABC/ComputacaoGrafica/abcg/build/abcg",
+  "command": "/usr/lib/ccache/g++  -I/home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg -I/home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg/external/cppitertools -I/home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg/external/fmt -I/home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg/external/glm/.. -I/home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg/external/imgui -isystem /usr/include/SDL2 -isystem /home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg/external -isystem /home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg/external/tiny_obj_loader -O3 -DNDEBUG -std=gnu++20 -o CMakeFiles/abcg.dir/abcgImage.cpp.o -c /home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg/abcgImage.cpp",
+  "file": "/home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg/abcgImage.cpp"
+},
+{
+  "directory": "/home/gabriel/UFABC/ComputacaoGrafica/abcg/build/abcg",
+  "command": "/usr/lib/ccache/g++  -I/home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg -I/home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg/external/cppitertools -I/home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg/external/fmt -I/home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg/external/glm/.. -I/home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg/external/imgui -isystem /usr/include/SDL2 -isystem /home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg/external -isystem /home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg/external/tiny_obj_loader -O3 -DNDEBUG -std=gnu++20 -o CMakeFiles/abcg.dir/abcgTrackball.cpp.o -c /home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg/abcgTrackball.cpp",
+  "file": "/home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg/abcgTrackball.cpp"
+},
+{
+  "directory": "/home/gabriel/UFABC/ComputacaoGrafica/abcg/build/abcg",
+  "command": "/usr/lib/ccache/g++  -I/home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg -I/home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg/external/cppitertools -I/home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg/external/fmt -I/home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg/external/glm/.. -I/home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg/external/imgui -isystem /usr/include/SDL2 -isystem /home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg/external -isystem /home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg/external/tiny_obj_loader -O3 -DNDEBUG -std=gnu++20 -o CMakeFiles/abcg.dir/abcgWindow.cpp.o -c /home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg/abcgWindow.cpp",
+  "file": "/home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg/abcgWindow.cpp"
+},
+{
+  "directory": "/home/gabriel/UFABC/ComputacaoGrafica/abcg/build/abcg",
+  "command": "/usr/lib/ccache/g++  -I/home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg -I/home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg/external/cppitertools -I/home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg/external/fmt -I/home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg/external/glm/.. -I/home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg/external/imgui -isystem /usr/include/SDL2 -isystem /home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg/external -isystem /home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg/external/tiny_obj_loader -O3 -DNDEBUG -std=gnu++20 -o CMakeFiles/abcg.dir/abcgUtil.cpp.o -c /home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg/abcgUtil.cpp",
+  "file": "/home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg/abcgUtil.cpp"
+},
+{
+  "directory": "/home/gabriel/UFABC/ComputacaoGrafica/abcg/build/abcg",
+  "command": "/usr/lib/ccache/g++  -I/home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg -I/home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg/external/cppitertools -I/home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg/external/fmt -I/home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg/external/glm/.. -I/home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg/external/imgui -isystem /usr/include/SDL2 -isystem /home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg/external -isystem /home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg/external/tiny_obj_loader -O3 -DNDEBUG -std=gnu++20 -o CMakeFiles/abcg.dir/abcgOpenGLError.cpp.o -c /home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg/abcgOpenGLError.cpp",
+  "file": "/home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg/abcgOpenGLError.cpp"
+},
+{
+  "directory": "/home/gabriel/UFABC/ComputacaoGrafica/abcg/build/abcg",
+  "command": "/usr/lib/ccache/g++  -I/home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg -I/home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg/external/cppitertools -I/home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg/external/fmt -I/home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg/external/glm/.. -I/home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg/external/imgui -isystem /usr/include/SDL2 -isystem /home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg/external -isystem /home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg/external/tiny_obj_loader -O3 -DNDEBUG -std=gnu++20 -o CMakeFiles/abcg.dir/abcgOpenGLFunction.cpp.o -c /home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg/abcgOpenGLFunction.cpp",
+  "file": "/home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg/abcgOpenGLFunction.cpp"
+},
+{
+  "directory": "/home/gabriel/UFABC/ComputacaoGrafica/abcg/build/abcg",
+  "command": "/usr/lib/ccache/g++  -I/home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg -I/home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg/external/cppitertools -I/home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg/external/fmt -I/home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg/external/glm/.. -I/home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg/external/imgui -isystem /usr/include/SDL2 -isystem /home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg/external -isystem /home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg/external/tiny_obj_loader -O3 -DNDEBUG -std=gnu++20 -o CMakeFiles/abcg.dir/abcgOpenGLImage.cpp.o -c /home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg/abcgOpenGLImage.cpp",
+  "file": "/home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg/abcgOpenGLImage.cpp"
+},
+{
+  "directory": "/home/gabriel/UFABC/ComputacaoGrafica/abcg/build/abcg",
+  "command": "/usr/lib/ccache/g++  -I/home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg -I/home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg/external/cppitertools -I/home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg/external/fmt -I/home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg/external/glm/.. -I/home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg/external/imgui -isystem /usr/include/SDL2 -isystem /home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg/external -isystem /home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg/external/tiny_obj_loader -O3 -DNDEBUG -std=gnu++20 -o CMakeFiles/abcg.dir/abcgOpenGLShader.cpp.o -c /home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg/abcgOpenGLShader.cpp",
+  "file": "/home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg/abcgOpenGLShader.cpp"
+},
+{
+  "directory": "/home/gabriel/UFABC/ComputacaoGrafica/abcg/build/abcg",
+  "command": "/usr/lib/ccache/g++  -I/home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg -I/home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg/external/cppitertools -I/home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg/external/fmt -I/home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg/external/glm/.. -I/home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg/external/imgui -isystem /usr/include/SDL2 -isystem /home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg/external -isystem /home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg/external/tiny_obj_loader -O3 -DNDEBUG -std=gnu++20 -o CMakeFiles/abcg.dir/abcgOpenGLWindow.cpp.o -c /home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg/abcgOpenGLWindow.cpp",
+  "file": "/home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg/abcgOpenGLWindow.cpp"
+},
+{
+  "directory": "/home/gabriel/UFABC/ComputacaoGrafica/abcg/build/abcg/external/imgui",
+  "command": "/usr/lib/ccache/g++  -I/opt/local/include -I/usr/include/SDL2 -I/home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg/external/imgui -O3 -DNDEBUG -o CMakeFiles/imgui.dir/imgui.cpp.o -c /home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg/external/imgui/imgui.cpp",
+  "file": "/home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg/external/imgui/imgui.cpp"
+},
+{
+  "directory": "/home/gabriel/UFABC/ComputacaoGrafica/abcg/build/abcg/external/imgui",
+  "command": "/usr/lib/ccache/g++  -I/opt/local/include -I/usr/include/SDL2 -I/home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg/external/imgui -O3 -DNDEBUG -o CMakeFiles/imgui.dir/imgui_demo.cpp.o -c /home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg/external/imgui/imgui_demo.cpp",
+  "file": "/home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg/external/imgui/imgui_demo.cpp"
+},
+{
+  "directory": "/home/gabriel/UFABC/ComputacaoGrafica/abcg/build/abcg/external/imgui",
+  "command": "/usr/lib/ccache/g++  -I/opt/local/include -I/usr/include/SDL2 -I/home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg/external/imgui -O3 -DNDEBUG -o CMakeFiles/imgui.dir/imgui_draw.cpp.o -c /home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg/external/imgui/imgui_draw.cpp",
+  "file": "/home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg/external/imgui/imgui_draw.cpp"
+},
+{
+  "directory": "/home/gabriel/UFABC/ComputacaoGrafica/abcg/build/abcg/external/imgui",
+  "command": "/usr/lib/ccache/g++  -I/opt/local/include -I/usr/include/SDL2 -I/home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg/external/imgui -O3 -DNDEBUG -o CMakeFiles/imgui.dir/imgui_tables.cpp.o -c /home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg/external/imgui/imgui_tables.cpp",
+  "file": "/home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg/external/imgui/imgui_tables.cpp"
+},
+{
+  "directory": "/home/gabriel/UFABC/ComputacaoGrafica/abcg/build/abcg/external/imgui",
+  "command": "/usr/lib/ccache/g++  -I/opt/local/include -I/usr/include/SDL2 -I/home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg/external/imgui -O3 -DNDEBUG -o CMakeFiles/imgui.dir/imgui_widgets.cpp.o -c /home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg/external/imgui/imgui_widgets.cpp",
+  "file": "/home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg/external/imgui/imgui_widgets.cpp"
+},
+{
+  "directory": "/home/gabriel/UFABC/ComputacaoGrafica/abcg/build/abcg/external/imgui",
+  "command": "/usr/lib/ccache/g++  -I/opt/local/include -I/usr/include/SDL2 -I/home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg/external/imgui -O3 -DNDEBUG -o CMakeFiles/imgui.dir/imgui_impl_sdl2.cpp.o -c /home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg/external/imgui/imgui_impl_sdl2.cpp",
+  "file": "/home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg/external/imgui/imgui_impl_sdl2.cpp"
+},
+{
+  "directory": "/home/gabriel/UFABC/ComputacaoGrafica/abcg/build/abcg/external/imgui",
+  "command": "/usr/lib/ccache/g++  -I/opt/local/include -I/usr/include/SDL2 -I/home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg/external/imgui -O3 -DNDEBUG -o CMakeFiles/imgui.dir/imgui_impl_opengl3.cpp.o -c /home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg/external/imgui/imgui_impl_opengl3.cpp",
+  "file": "/home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg/external/imgui/imgui_impl_opengl3.cpp"
+},
+{
+  "directory": "/home/gabriel/UFABC/ComputacaoGrafica/abcg/build/abcg/external/fmt",
+  "command": "/usr/lib/ccache/g++  -I/home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg/external/fmt -O3 -DNDEBUG -std=gnu++20 -o CMakeFiles/fmt.dir/format.cc.o -c /home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg/external/fmt/format.cc",
+  "file": "/home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg/external/fmt/format.cc"
+},
+{
+  "directory": "/home/gabriel/UFABC/ComputacaoGrafica/abcg/build/examples/helloworld/opengl",
+  "command": "/usr/lib/ccache/g++  -I/home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg -I/home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg/external/cppitertools -I/home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg/external/fmt -I/home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg/external/glm/.. -I/home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg/external/imgui -isystem /usr/include/SDL2 -isystem /home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg/external -isystem /home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg/external/tiny_obj_loader -O3 -DNDEBUG -Wall -Wextra -pedantic -std=gnu++20 -o CMakeFiles/helloworld.dir/main.cpp.o -c /home/gabriel/UFABC/ComputacaoGrafica/abcg/examples/helloworld/opengl/main.cpp",
+  "file": "/home/gabriel/UFABC/ComputacaoGrafica/abcg/examples/helloworld/opengl/main.cpp"
+},
+{
+  "directory": "/home/gabriel/UFABC/ComputacaoGrafica/abcg/build/examples/helloworld/opengl",
+  "command": "/usr/lib/ccache/g++  -I/home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg -I/home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg/external/cppitertools -I/home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg/external/fmt -I/home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg/external/glm/.. -I/home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg/external/imgui -isystem /usr/include/SDL2 -isystem /home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg/external -isystem /home/gabriel/UFABC/ComputacaoGrafica/abcg/abcg/external/tiny_obj_loader -O3 -DNDEBUG -Wall -Wextra -pedantic -std=gnu++20 -o CMakeFiles/helloworld.dir/window.cpp.o -c /home/gabriel/UFABC/ComputacaoGrafica/abcg/examples/helloworld/opengl/window.cpp",
+  "file": "/home/gabriel/UFABC/ComputacaoGrafica/abcg/examples/helloworld/opengl/window.cpp"
+}
+]
